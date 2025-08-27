@@ -15,5 +15,5 @@ print("%10.4f" % pi)
 """
 
 for i in range(0, 11):
- mocnina = pow(10, i)
-print("%012.0f" % mocnina)
+    mocnina = pow(10, i)
+    print("%012.0f" % mocnina)
